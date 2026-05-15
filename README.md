@@ -21,6 +21,5 @@ Contato
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
