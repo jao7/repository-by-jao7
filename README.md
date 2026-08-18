@@ -2,10 +2,12 @@
 Estudante de Análise e Desenvolvimento de Sistemas
 
 Atualmente estudando:
-- HTML5
-- CSS3
-- JavaScript
-- Lógica de Programação
+- HTML.
+- CSS.
+- Java.
+- JavaScript.
+- Lógica de Programação.
+- Testing, Complice e Quality Assurance.
 
 - Sobre mim
 Sempre tive interesse por tecnologia e programação. Atualmente estou focado em aprender desenvolvimento web e melhorar minhas habilidades para futuramente atuar profissionalmente na área de tecnologia.
