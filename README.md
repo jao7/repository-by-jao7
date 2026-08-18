@@ -13,7 +13,7 @@ Sempre tive interesse por tecnologia e programação. Atualmente estou focado em
 Contato
 
 - GitHub: https://github.com/jao7
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-lorenzi-dos-santos-6496933b5/ 
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 
